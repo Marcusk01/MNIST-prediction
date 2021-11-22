@@ -1,0 +1,6 @@
+
+data/test_images.npy
+data/train_images.npy
+.kaggle/kaggle.json
+.ipynb_checkpoints/Mnist_fashion_AI-checkpoint.ipynb
+kaggle.json
