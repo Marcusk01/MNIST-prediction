@@ -27,3 +27,8 @@ Each training and test example is assigned to one of the following labels:
 7. Sneaker
 8. Bag
 9. Ankle boot
+
+### Instructions
+
+1. Open colab notebook and upload Kaggle API to retrieve training & testing data
+2. Execute all cells to train and evaluate model and generate predictions.
